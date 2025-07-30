@@ -49,6 +49,8 @@ To set up the project locally, you'll need:
 
 ## ⚙️ Getting Started
 
+## ⚙️ Getting Started
+
 ### 📁 Step 1: Import the Database
 
 1. Find the `lms.sql` file in the project root  
@@ -56,6 +58,22 @@ To set up the project locally, you'll need:
 3. Create a new database (e.g., `lms`)  
 4. Go to the **Import** tab  
 5. Select `lms.sql` and click **Go**
+
+### 💻 Step 2: Run the Project Locally
+
+1. Clone or download the project folder into your local machine  
+2. Place it inside your web server directory:  
+   - For **XAMPP**: `htdocs/`  
+   - For **WAMP**: `www/`  
+3. Open the project in **VS Code**  
+4. Launch the app using either:  
+   - `Live Server` extension (for preview)  
+   - Or open your browser and go to:  
+     ```
+     http://localhost/lms-master/
+     ```
+5. Log in using the admin credentials below
+
 
 ---
 

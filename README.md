@@ -49,8 +49,6 @@ To set up the project locally, you'll need:
 
 ## ⚙️ Getting Started
 
-## ⚙️ Getting Started
-
 ### 📁 Step 1: Import the Database
 
 1. Find the `lms.sql` file in the project root  

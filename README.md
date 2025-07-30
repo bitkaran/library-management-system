@@ -92,10 +92,14 @@ To set up the project locally, you'll need:
 
 ---
 
+
 ## 📸 Screenshots
 
-<!-- Add your screenshots below -->
-<!-- Example: ![Dashboard](screenshots/dashboard.png) -->
+<p align="center">
+  <img src="screenshots/dashboard-overview.png" alt="Dashboard" width="48%" />
+  <img src="screenshots/subscription-plans.png" alt="Subscription Plans" width="48%" />
+</p>
+
 
 ---
 

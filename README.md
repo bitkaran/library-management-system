@@ -1,39 +1,103 @@
-## Project Name: Library Management System
+<h1 align="center">📚 Royal Library Management System</h1>
 
-## Technologies:
+<p align="center">
+  <b>A modern, responsive web application to manage books, users, subscriptions, and loans – built with PHP & MySQL.</b>
+</p>
 
-    # Frontend: HTML, CSS, Bootstrap
-    # Backend: PHP
-    # Database: MySQL
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-PHP-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Database-MySQL-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/UI-Bootstrap-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Ready%20to%20Use-brightgreen?style=flat-square" />
+</p>
 
-## Modules
+---
 
-    # Books management
-    # Students management
-    # Loans management
-    # Subscriptions management
-        # Plans
-        # purchase history
-    # My profile
-    # Change password
+## 🚀 Tech Stack
 
-# Prerequisites
+- **Frontend:** HTML5, CSS3, Bootstrap
+- **Backend:** PHP
+- **Database:** MySQL
 
-    # Basic PHP knowledge
-    # VS code extensions
-        PHP intelephense
-        Live Server
-        Prettier
-    # Live server web extension on Google chrome
+---
 
-# Basic Instructions for someone who pull the project
+## 🧩 Core Modules
 
-    # Database file (lms.sql) you can find on root location
-    # To import the database,
-        Open PhpMyAdmin
-        Create a new database,
-        Move to 'Import' tab
-        Select file and click on GO button
-    # Login Credentials to access the dashboard
-        Email: admin@gmail.com
-        Password: 12345
+- 📘 **Books Management** – Add, update, and delete book records  
+- 🎓 **Students Management** – Register and manage students  
+- 🔁 **Loans Management** – Issue, return, and track borrowed books  
+- 💳 **Subscriptions Management**
+  - 📦 Plan creation
+  - 🧾 Purchase history tracking  
+- 🙍‍♂️ **My Profile** – View & edit personal info  
+- 🔐 **Change Password** – Secure password update
+
+---
+
+## 📋 Prerequisites
+
+To set up the project locally, you'll need:
+
+- Basic knowledge of **PHP**
+- [VS Code](https://code.visualstudio.com/) with:
+  - ✅ PHP Intelephense
+  - ✅ Prettier
+  - ✅ Live Server Extension
+- Chrome browser with **Live Server Web Extension**
+
+---
+
+## ⚙️ Getting Started
+
+### 📁 Step 1: Import the Database
+
+1. Find the `lms.sql` file in the project root  
+2. Open **phpMyAdmin**  
+3. Create a new database (e.g., `lms`)  
+4. Go to the **Import** tab  
+5. Select `lms.sql` and click **Go**
+
+---
+
+### 🔐 Admin Login Credentials
+
+📧 Email: admin@gmail.com
+🔑 Password: 12345
+
+---
+
+## 🎯 Key Features
+
+- ✅ Clean & intuitive admin dashboard  
+- ✅ Responsive design (mobile + desktop)  
+- ✅ Easy local setup with importable DB  
+- ✅ Modular codebase for easy scalability  
+- ✅ Built with student-friendly technologies
+
+---
+
+## 📸 Screenshots
+
+<!-- Add your screenshots below -->
+<!-- Example: ![Dashboard](screenshots/dashboard.png) -->
+
+---
+
+## 👨‍💻 Author
+
+**Karan Singh**  
+🎓 B.Tech CSE | 💻 Full-Stack Developer | 🤝 Open Source Enthusiast  
+📧 [karan.devmail@gmail.com](mailto:karan.devmail@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/krn-shekhawat/) | [GitHub](https://github.com/bitkaran)
+
+---
+
+## 💡 Philosophy
+
+> _“Keep building, keep learning — and the right opportunity will find you.”_
+
+---
+
+## 📜 License
+
+This project is open-source and free to use for **learning and academic** purposes.
